@@ -27,7 +27,7 @@ To deliver actionable insights from scattered sales data across various dimensio
 - **Power BI** – For data modeling, DAX calculations, and visualization  
 - **Excel** – Used for importing budget data
 
-👉 *Detailed SQL scripts are provided separately in [`data_cleaning_sql_queries.sql`](./docs/data_cleaning_sql_queries.sql)*
+👉 *Detailed SQL scripts are provided separately in [data_cleaning_sql_queries folder](docs/data_cleaning_sql_queries/).
 
 ---
 
