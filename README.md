@@ -35,20 +35,20 @@ To deliver actionable insights from scattered sales data across various dimensio
 
 - 💰 **Total Sales**: $22M vs. $31M budget → $9M shortfall  
 - 🚲 **Top Category**: Bikes contributed ~$21M in revenue  
-- 👨‍👩‍👧‍👦 **High-Value Segment**: Ages 36–55, income >$100k, especially married customers  
+- 👨‍👩‍👧‍👦 **High-Value Segment**: Ages 46–65, income $50k-$100k, Ages 36-55, income $0-$50k
 - 🧍‍♂️ **Top Customers**: Male married – $6M | Female married – $5.6M  
 - 🎯 **Top Products**: Mountain-200 (Black & Silver) → high demand  
-- 🎨 **Preferences**: Popular colors – Black, Silver | Sizes – M, S  
-- 🌍 **Geographic Focus**: Sales clustered in specific cities  
+- 🎨 **Preferences**: Popular colors – Black, Silver | Sizes – 38-46  
+- 🌍 **Geographic Focus**: Sales clustered in specific cities with London and Paris bringing the most sales.
 - 📦 **Customer Stats**: 58K orders from 18K customers | Avg. order = $382.34
 
 ---
 
 ## 📊 Visuals Included
 
-- Sales vs Budget by Category (Bar Chart)  
+- Sales vs Budget by Category (Stacked Bar Chart)  
 - Monthly Sales Trends (Line Chart)  
-- Sales by Age & Income (Heatmap)  
+- Sales by Age & Income (Stacked Column Chart)  
 - Top 10 Customers and Top Products  
 - Sales by Geography (Map)  
 - Filterable views by product and customer
@@ -79,13 +79,13 @@ To deliver actionable insights from scattered sales data across various dimensio
 
 I'm **Rajendra Singh Shah**, a Computer Science graduate passionate about turning data into decisions. This project reflects my skills in SQL, Power BI, and business-focused analytics.
 
-- 🌐 Portfolio: [rajendrasinghshah.github.io](https://rajendrasinghshah.github.io)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🌐 Portfolio: [rajendrasinghshah.github.io](https://rajendra-singh7.github.io/)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](linkedin.com/in/rajendra-singh-shah)  
 - 📬 Email: rajendrasinghshah25@gmail.com
 
 
 ## 📎 Project Deliverables
 
 - ✔️ Interactive Power BI dashboard (3 pages)
-- ✔️ SQL transformation scripts (`sql_queries.sql`)
+- ✔️ SQL transformation scripts
 - ✔️ PDF snapshots or link to hosted dashboard
