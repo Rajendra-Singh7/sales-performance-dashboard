@@ -80,7 +80,7 @@ To deliver actionable insights from scattered sales data across various dimensio
 I'm **Rajendra Singh Shah**, a Computer Science graduate passionate about turning data into decisions. This project reflects my skills in SQL, Power BI, and business-focused analytics.
 
 - 🌐 Portfolio: [rajendrasinghshah.github.io](https://rajendra-singh7.github.io/)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](linkedin.com/in/rajendra-singh-shah)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile]([linkedin.com/in/rajendra-singh-shah](https://www.linkedin.com/in/rajendra-singh-shah/))  
 - 📬 Email: rajendrasinghshah25@gmail.com
 
 
