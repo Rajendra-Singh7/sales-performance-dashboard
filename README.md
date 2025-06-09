@@ -31,6 +31,22 @@ To deliver actionable insights from scattered sales data across various dimensio
 
 ---
 
+## 📊 Dashboard Snapshots
+<p align="center">
+  <img src="./dashboard ss/sales overview dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 1: Sales Overview Dashboard</i>
+</p>
+<p align="center">
+  <img src="./dashboard ss/customer details dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 2: Customer Details Dashboard</i>
+</p>
+<p align="center">
+  <img src="./dashboard ss/Product Details Dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 3: Product Details Dashboard</i>
+</p>
+
+---
+
 ## 🔍 Key Insights
 
 - 💰 **Total Sales**: $22M vs. $31M budget → $9M shortfall  
